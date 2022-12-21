@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+    
 }
 
 
@@ -108,7 +107,28 @@ body, html {
     left: 16px;
 }
 
+.grid-container2{
 
+    display: grid;
+    grid-template-columns: 300px 250px;
+    justify-content: center;
+    grid-template-rows: (150px, auto);
+    object-fit: contain;
+
+
+    grid-gap : 60px;
+    margin-top: 30px;
+    background-color:hsl(201, 16%, 21%);
+
+}
+
+.grid-container2 div img{
+    
+max-width:100%;
+max-height:100%;
+display: block;
+
+}
 
 
 
