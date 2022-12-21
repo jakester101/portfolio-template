@@ -15,7 +15,7 @@ git clone git@github.com:jakester101/portfolio-template.git
 This project deploys as an [HTML website.](https://jakester101.github.io/portfolio-template) and links to other websites.
 
 ### Preview
-![alt text](assets/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 [Jacob Hester](https://github.com/jakester101)
