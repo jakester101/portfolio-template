@@ -12,7 +12,7 @@ git clone git@github.com:jakester101/portfolio-template.git
 
 ## Usage
 
-This project deploys as an [HTML website.](https://jakester101.github.io/portfolio-template) and links to other websites.
+This project deploys as an [HTML website](https://jakester101.github.io/portfolio-template) and links to other websites.
 
 ### Preview
 ![alt text](assets/images/screenshot.png)
